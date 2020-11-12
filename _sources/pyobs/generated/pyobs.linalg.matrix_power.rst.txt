@@ -1,0 +1,6 @@
+﻿pyobs.linalg.matrix\_power
+==========================
+
+.. currentmodule:: pyobs
+
+.. autofunction:: linalg.matrix_power

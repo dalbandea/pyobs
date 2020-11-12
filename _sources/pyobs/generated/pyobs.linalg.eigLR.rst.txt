@@ -1,0 +1,6 @@
+﻿pyobs.linalg.eigLR
+==================
+
+.. currentmodule:: pyobs
+
+.. autofunction:: linalg.eigLR
